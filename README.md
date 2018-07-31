@@ -1,0 +1,2 @@
+# SKay
+wordpress主题
